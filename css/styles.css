@@ -57,12 +57,12 @@ footer {
   margin: 10px;
   outline: none;
   text-align: center;
-  transition: all 0.3s ease;
+  transition: all 0.1s ease;
   width: 150px;
 }
 
 .drum:hover {
   cursor: pointer;
   background: linear-gradient(to right bottom, #fe8c003f, #DBEDF3);
-  transform: translateY(1rem);
+  transform: translateY(0.5rem);
 }
